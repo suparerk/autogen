@@ -1,0 +1,38 @@
+{
+    "type": "AssistantAgentState",
+    "version": "1.0.0",
+    "llm_context": {
+        "messages": [
+            {
+                "content": "Hi",
+                "source": "user",
+                "type": "UserMessage"
+            },
+            {
+                "content": "Hello! How can I assist you today? Whether it's organizing your schedule, providing information on a topic, or offering general advice, feel free to ask.",
+                "source": "assistant",
+                "type": "AssistantMessage"
+            },
+            {
+                "content": "give me a coffe shop tagline",
+                "source": "user",
+                "type": "UserMessage"
+            },
+            {
+                "content": "\"Cup by cup, we\u6e29\u6696your day.\"",
+                "source": "assistant",
+                "type": "AssistantMessage"
+            },
+            {
+                "content": "game shop",
+                "source": "user",
+                "type": "UserMessage"
+            },
+            {
+                "content": "\"Where every game opens a new world of adventure.\"",
+                "source": "assistant",
+                "type": "AssistantMessage"
+            }
+        ]
+    }
+}
